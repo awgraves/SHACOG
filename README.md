@@ -33,7 +33,7 @@ First of all, ***interfund transfers were not considered "expenses" in this data
 
 Expense breakdowns by category were even more complicated than revenues due to the various styles of departmental divisions!
 
-I decided to simplify things and came up with categories based roughly on Baldwin Borough's [interactive budget viewer](baldwinboroughpa.opengov.com/transparency#/).  I also made my own minor adjustments...
+I decided to simplify things and came up with categories based roughly on Baldwin Borough's [interactive budget viewer](https://baldwinboroughpa.opengov.com/transparency#/).  I also made my own minor adjustments...
 
 **For example**: *Swimming pool* expenditures were usually listed under *recreation* but I thought it would be interesting to compare that separately.  Conversely, *Winter road maintainance* was usually listed separately, but I chose to add it to *public works* spending.
 
